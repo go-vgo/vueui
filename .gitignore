@@ -1,14 +1,24 @@
 .DS_Store
 .vscode
+
+.idea
 node_modules/
 bower_components/
-npm-debug.log
 /demo
 build/milestone.json
 examples/webpack/
-.idea
-dist/components-commonjs/
+dist/components-common.js/
 /site
+
+*.log
+explorations
+TODOs.md
+dist/*.gz
+dist/*.map
+dist/common.min.js
+test/e2e/reports
+test/e2e/screenshots
+coverage
 
 .sass-cache/
 *.css.map
