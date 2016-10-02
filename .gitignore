@@ -1,5 +1,14 @@
 .DS_Store
 .vscode
+node_modules/
+bower_components/
+npm-debug.log
+/demo
+build/milestone.json
+examples/webpack/
+.idea
+dist/components-commonjs/
+/site
 
 .sass-cache/
 *.css.map
